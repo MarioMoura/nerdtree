@@ -655,6 +655,14 @@ Applies to: The NERDTree menu.
 
 Moves the cursor up.
 
+------------------------------------------------------------------------------
+                                                            *NERDTreeMenu-<esc>*
+Default key: <esc>
+Map option: *NERDTreeMenuQuit*
+Applies to: The NERDTree menu.
+
+Quit the menu.
+
 ==============================================================================
 3. Customisation                                              *NERDTreeSettings*
 
